@@ -2,6 +2,6 @@
 
 ## Introduction
 
-##Purppose
+## Purppose
 
-##How to Contribute
+## How to Contribute
